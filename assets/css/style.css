@@ -172,6 +172,11 @@ height:120px;
 
 }
 
+/* ----MAP--- */
+
+div#map {
+    min-height: 360px;
+    }
 /* ----------Footer */
 
 footer {
